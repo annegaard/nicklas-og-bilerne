@@ -1,0 +1,8 @@
+This snake/car game is made for my nephew.
+
+Thanks to Ania Kubow and Scrimba for teaching me to make a snake game in a Scrimba tutorial.
+Thanks to my dad for helping me with the code.
+
+I apologise that the code contains Danish words. I hope you still understand :)
+
+The site is only made for desktop.
